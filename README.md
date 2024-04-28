@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-ID: IT20013882
-GitHub Username: Kilamalik
+Haven't been pushing to GitHub any of my recent work. You can view them on https://codepen.io/Malik-Samath.
